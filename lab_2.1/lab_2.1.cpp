@@ -17,9 +17,7 @@ int main() {
 
     double z2 = 0.25 - 0.25 * sin((5.0 / 2.0) * PI - 8.0 * alpha);
 
-    cout << "\nРезультати обчислень:" << endl;
-    cout << "z1 = " << z1 << endl;
-    cout << "z2 = " << z2 << endl;
+    
 
     return 0;
 }
